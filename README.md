@@ -1,9 +1,6 @@
 # BudgetBot-SLAM
 BudgetBot-SLAM - Affordable SLAM for robots. Low-cost sensors, high-precision mapping. Make robots navigate smarter without breaking the bank!
 
-
-# BudgetBot-SLAM
-
 BudgetBot-SLAM is an open-source project dedicated to making Simultaneous Localization and Mapping (SLAM) accessible and affordable for a wide range of robotic applications. Our mission is to provide a cost-effective solution for robots to navigate and map their environments with precision.
 
 ## Key Features
