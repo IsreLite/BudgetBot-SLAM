@@ -17,15 +17,15 @@ An open-source project dedicated to affordable Simultaneous Localization and Map
 
 ## Getting Started
 
-Refer to our [Wiki](https://github.com/Inexpensibot-SLAM/wiki) for detailed documentation, installation instructions, and examples.
+Refer to our [Wiki](https://github.com/IsreLite/Inexpensibot-SLAM/wiki) for detailed documentation, installation instructions, and examples.
 
 ## Installation
 
-Follow the steps outlined in our [Installation Guide](https://github.com/Inexpensibot-SLAM/wiki/Installation).
+Follow the steps outlined in our [Installation Guide](https://github.com/IsreLite/Inexpensibot-SLAM/wiki/Installation).
 
 ## Usage
 
-Explore usage instructions and code examples in our [Usage Guide](https://github.com/Inexpensibot-SLAM/wiki/Usage).
+Explore usage instructions and code examples in our [Usage Guide](https://github.com/IsreLite/Inexpensibot-SLAM/wiki/Usage).
 
 ## Contributing
 
